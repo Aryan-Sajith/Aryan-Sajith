@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aryan-Sajith and I'm a 17 year old high schooler.
-- 👀 I’m interested in computer programming, video-gaming, and playing piano in my free time.
-- 🌱 I’m currently learning python and have spent a year learning java in the past.
-- 💞️ I’m looking to collaborate on nothing really.
+- 👋 Hi, I’m @Aryan-Sajith and I'm a 18 year old high schooler,
+- 👀 I’m interested in computer programming, video-gaming, studying, sleeping, and more
+- 🌱 I’m currently learning java and python
+- 💞️ I’m open to collaboration on coding, science, math, or similar projects
 - 📫 I would try my email at aryan.sajith04@gmail.com if you have anything cool or interesting.
 
 <!---
