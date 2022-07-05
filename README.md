@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aryan-Sajith and I'm a 18 year old high schooler
+- 👋 Hi, I’m @Aryan-Sajith and I'm a 18 year old UMass Amherst student.
 - 👀 I’m interested in computer programming, video-gaming, exercising, studying, sleeping, and more
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java alongside Data Structures and Algorithms
 - 💞️ I’m open to collaboration on coding, science, math, engineering, or any STEM projects
 - 📫 I would try my email at aryan.sajith04@gmail.com if you have anything cool or interesting.
 
