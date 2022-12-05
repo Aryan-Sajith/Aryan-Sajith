@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer programming, video-gaming, exercising, studying, sleeping, and more
 - 🌱 I’m currently learning Java alongside Data Structures & Algorithms
 - 💞️ I’m open to collaboration on coding, science, math, engineering, or any STEM projects
-- 📫 I would try my email at aryan.sajith04@gmail.com if you have anything cool or interesting.
+- 📫 Email at aryan.sajith14@gmail.com if you have anything cool or interesting.
 
 <!---
 Aryan-Sajith/Aryan-Sajith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
